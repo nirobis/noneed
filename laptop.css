@@ -1,0 +1,156 @@
+@media (min-width:769px) and (max-width:1000px) {
+    /* layout */
+    .col-l-1{width: 8.33%;
+        float: left;}
+    .col-l-2{width: 16.66%;
+        float: left;}
+    .col-l-3{width: 25%;
+        float: left;}
+    .col-l-4{width: 33.33%;
+        float: left;}
+    .col-l-5{width: 41.66%;
+        float: left;}
+    .col-l-6{width: 50%;
+        float: left;}
+    .col-l-7{width: 58.33%;
+        float: left;}
+    .col-l-8{width: 66.66%;
+        float: left;}
+    .col-l-9{width: 75%;
+        float: left;}
+    .col-l-10{width: 83.33%;
+        float: left;}
+    .col-l-11{width: 91.66%;
+        float: left;}
+    .col-l-12{width: 100%;
+        float: left;}
+    /* Global class */
+    section{
+        text-align: center;  
+        padding: 100px 0px;
+    }
+    p{
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 15px;
+    }
+    .heading{
+        font-size: 35px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing:2px ;
+    line-height: 40px;
+    }
+    .sub-heading{
+        font-size: 25px;
+        text-transform: uppercase;
+        line-height: 25px;
+        font-weight: 500;
+        margin: 10px 0px;
+    }
+    .underline{
+        border-bottom: 3px solid rgba(0, 0, 0, 0.151);
+        width:6% ;
+        margin: auto;
+        margin-top: 10px;
+    }
+    .writing-part{
+        margin-bottom: 60px;
+    }
+    header{
+        text-align: center;
+    }
+    .menu-part ul{
+        text-align: center;
+    }
+    .nothing{
+        display:block;
+      }
+     /* copy */
+ 
+    .hero-part h1{
+      font-size: 30px;
+      margin-bottom: 25px;
+    }
+    .hero-part button{
+  
+      font-size: 12px;
+      width: 155px;
+      margin-top: 20px;
+    }
+    #service-box, .team-box, .skill-box, .protfolio-box{
+    margin-top: 15px;
+    }
+    .service-box img{
+      max-width: 95%;
+      max-height: 120px;
+    
+     }
+     .service-box{
+      padding: 18px 20px;
+     }
+     .team-box img{
+        max-width: 100%;
+        max-height: 140px;
+      
+    
+     }
+     .team-box{
+      padding: 18px 15px;
+     }
+     .team-icon i{
+      font-size: 7px;
+     }
+     .skill-box img{
+      max-width: 120%;
+      max-height: 130px;
+    
+     }
+     .skill-box{
+      padding: 20px 15px;
+     }
+     .protfolio-box img{
+      max-width: 160%;
+      max-height: 200px;
+    
+     }
+     .protfolio-btn button{
+    font-size: 12px;
+      font-weight: 500;
+   
+     }
+    .load-btn{
+      margin: auto;
+    padding:15px 4px;
+    font-size: 12px;
+    width: 150px;
+    margin-top: 50px;
+    }
+    .about-img img{
+      max-width: 110%;
+      max-height: 160px;
+    
+    }
+    .about-writing p{
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 15px;
+    }
+    input[type="submit"]{
+   width: 150px; 
+      
+
+  }
+  footer a{
+      font-size: 18px;
+      font-weight: 500;
+    }
+    footer ul{
+     text-align: center;
+     padding: 10px 0px;
+    }  
+    footer li{
+      display: inline;
+      padding: 5px 5px;
+    }    
+}

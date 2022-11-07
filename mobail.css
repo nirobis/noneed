@@ -1,0 +1,166 @@
+@media (min-width:0px) and (max-width:600px) {
+    /* layout */
+    .col-s-1{width: 8.33%;
+        float: left;}
+    .col-s-2{width: 16.66%;
+        float: left;}
+    .col-s-3{width: 25%;
+        float: left;}
+    .col-s-4{width: 33.33%;
+        float: left;}
+    .col-s-5{width: 41.66%;
+        float: left;}
+    .col-s-6{width: 50%;
+        float: left;}
+    .col-s-7{width: 58.33%;
+        float: left;}
+    .col-s-8{width: 66.66%;
+        float: left;}
+    .col-s-9{width: 75%;
+        float: left;}
+    .col-s-10{width: 83.33%;
+        float: left;}
+    .col-s-11{width: 91.66%;
+        float: left;}
+    .col-s-12{width: 100%;
+        float: left;}
+    /* Global class */
+    section{
+        text-align: center;  
+        padding: 100px 0px;
+    }
+    p{
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 15px;
+    }
+    .heading{
+        font-size: 30px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing:1px ;
+    line-height: 40px;
+    }
+    .sub-heading{
+        font-size: 20px;
+        text-transform: uppercase;
+        line-height: 25px;
+        font-weight: 500;
+        margin: 10px 0px;
+    }
+    .underline{
+        border-bottom: 3px solid rgba(0, 0, 0, 0.151);
+        width:6.2% ;
+        margin: auto;
+        margin-top: 10px;
+    }
+    .writing-part{
+        margin-bottom: 60px;
+    }
+    header{
+        text-align: center;
+    }
+    .menu-part ul{
+        text-align: center;
+        font-size: 3px;
+        font-weight: 400;
+        line-height: 10px;
+    }
+    .menu-part li{
+        margin: 0px 2px;
+       
+    }
+
+    .hero-part{
+   
+        padding: 75px 50px;
+    }
+    
+    .hero-part h1{
+     font-size: 20px;
+     font-weight: 600;
+     line-height: 20px;
+     margin-bottom: 20px;
+    }
+  
+    .hero-part button{
+
+        padding:5px 0px;
+        font-size: 12px;
+        width: 165px;
+        margin-top: 20px;
+       }
+       .service-box img{
+        max-width: 70%;
+        max-height: 70px;
+      
+       }
+       .service-box , .team-box ,.skill-box,.protfolio-box{
+        margin-top: 20px;
+       }
+     
+       .team-box img{
+        max-width: 60%;
+       }
+       .ntg{
+        display: inline;
+       }
+       .team-icon{
+        margin-top: 14px;
+       }
+       .team-icon i{
+       
+        padding: 7px;
+        margin:0px 2px;
+        width: 30px;
+        font-size: 12px;
+       }
+       .des{
+        color:#30bae7 ;
+        font-size: 15px;
+        font-weight:400 ;
+       }
+.protfolio-box img{
+    max-width: 95%;
+}
+.protfolio-btn button{
+    font-size: 8px;
+    font-weight: 500;
+    line-height: 10px;
+   }
+       .skill-box img{
+        max-width: 60%;
+       }
+       .load-btn{
+    
+        margin: 25px auto;
+        max-width:40% ;
+        font-size: 12px;
+        padding: 5px 8px;
+       }
+       .about-img img{
+        max-width:70%;
+       }
+       .nothing{
+        display:block;
+      }
+
+      input[type="text"], input[type="e-mail"], textarea{
+        width: 100%;
+      }
+      input[type="submit"]{
+       width: 120px;
+      }
+      footer a{
+        font-size: 8px;
+        font-weight: 500;
+      }
+      footer ul{
+       text-align: center;
+       padding: 10px 0px;
+      }  
+      footer li{
+        display: inline;
+        padding: 5px 0px;
+      }    
+}
